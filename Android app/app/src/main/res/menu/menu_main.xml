@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cellninja.notif2watch.MainActivity">
+    <item
+        android:id="@+id/action_install_watchface"
+        android:orderInCategory="100"
+        android:title="@string/action_install_watchface"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_disable_notif2watch_notification"
+        android:orderInCategory="101"
+        android:title="@string/action_disable_notif2watch_notification"
+        app:showAsAction="never" />
+</menu>

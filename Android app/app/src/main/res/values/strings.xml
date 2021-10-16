@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">"Notif2Watch"</string>
+    <string name="action_install_watchface">Install N2W</string>
+    <string name="action_disable_notif2watch_notification">Notif2Watch notifications</string>
+    <string name="textview_welcome1">"1) Allow Notification Access.\n2) Install N2W on Pebble.\n3) Open configuration page for N2W in Pebble app and set a city.\n4) Optionally disable Notif2Watch notifications."</string>
+    <string name="n2wKey">"n2wKey"</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

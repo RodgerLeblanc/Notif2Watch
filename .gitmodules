@@ -1,0 +1,3 @@
+[submodule "Pebble watchface/N2W"]
+	path = Pebble watchface/N2W
+	url = https://github.com/RodgerLeblanc/N2W.git
