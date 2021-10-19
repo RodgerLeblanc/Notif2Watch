@@ -138,6 +138,9 @@ public class NLService extends NotificationListenerService {
             case "com.microsoft.office.outlook": {
                 return Notif2WatchConstants.Icons.RESOURCE_ID_ICON_EMAIL_34.ordinal();
             }
+            case "com.readdle.spark": {
+                return Notif2WatchConstants.Icons.RESOURCE_ID_ICON_SPARK_34.ordinal();
+            }
             case "com.bbm": {
                 return Notif2WatchConstants.Icons.RESOURCE_ID_ICON_BBM_34.ordinal();
             }
