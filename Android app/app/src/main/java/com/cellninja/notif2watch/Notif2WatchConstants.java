@@ -182,6 +182,7 @@ public class Notif2WatchConstants {
         RESOURCE_ID_ICON_DASHBOARD_34,          // 89
         RESOURCE_ID_ICON_SIGNAL_34,             // 90
         RESOURCE_ID_ICON_TEAMS_34,              // 91
+        RESOURCE_ID_ICON_SPARK_34,              // 92
    };
 
     public static String[] APP_NAMES = {
@@ -277,5 +278,6 @@ public class Notif2WatchConstants {
         "Dashboard",                                // 89
         "Signal",                                   // 90
         "Teams",                                    // 91
+        "Spark",                                    // 92
     };
 }
