@@ -342,11 +342,9 @@ public class NLService extends NotificationListenerService {
             case "org.thoughtcrime.securesms": {
                 return Notif2WatchConstants.Icons.RESOURCE_ID_ICON_SIGNAL_34.ordinal();
             }
-            /*
-            case "": {
-                return Notif2WatchConstants.Icons.RESOURCE_ID_ICON_HUB_34.ordinal();
+            case "com.microsoft.teams": {
+                return Notif2WatchConstants.Icons.RESOURCE_ID_ICON_TEAMS_34.ordinal();
             }
-            */
             default: {
                 break;
             }
